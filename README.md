@@ -7,4 +7,4 @@ a b c d e f.
 A B C D E F. 
 G
 
-Right
+Left.
